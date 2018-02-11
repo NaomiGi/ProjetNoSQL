@@ -5,7 +5,7 @@ J'ai choisi de répondre au projet via un notebook python permettant de rassembl
 
 
 Pour lancer le projet, faire : 
-- cloner le repository et s'y placer avec une commande cd ./ProjetNoSQL
+- cloner le repository et s'y placer avec une commande cd ./ProjetNoSQl
 - donner les droits d'éxécution aux fichiers .sh avec la commande chmod a+x fichier.sh:
   - chmod a+x 01_install-mongodb.sh
    - chmod a+x 02_downloaddata.sh
